@@ -1,0 +1,7 @@
+C:\Users\time2w8\source\repos\WannaBeSnake\WannaBeSnake\bin\Debug\WannaBeSnake.exe.config
+C:\Users\time2w8\source\repos\WannaBeSnake\WannaBeSnake\bin\Debug\WannaBeSnake.exe
+C:\Users\time2w8\source\repos\WannaBeSnake\WannaBeSnake\bin\Debug\WannaBeSnake.pdb
+C:\Users\time2w8\source\repos\WannaBeSnake\WannaBeSnake\obj\Debug\WannaBeSnake.csprojAssemblyReference.cache
+C:\Users\time2w8\source\repos\WannaBeSnake\WannaBeSnake\obj\Debug\WannaBeSnake.csproj.CoreCompileInputs.cache
+C:\Users\time2w8\source\repos\WannaBeSnake\WannaBeSnake\obj\Debug\WannaBeSnake.exe
+C:\Users\time2w8\source\repos\WannaBeSnake\WannaBeSnake\obj\Debug\WannaBeSnake.pdb
